@@ -1,0 +1,1 @@
+java -cp "java-json.jar;warlight_engine.jar;" com.theaigames.game.warlight2.Warlight2 "example-map.txt" "java -jar warlight_starter.jar" "java -jar warlight_starter.jar" 2>err.txt 1>out.txt
